@@ -1,0 +1,44 @@
+﻿body {
+}
+
+.w3-text {
+    color:white;
+    font-weight: bold;
+    font-family: 'Calisto MT';
+}
+
+.w3 {
+    color: white;
+    background-color: darkcyan;
+}
+
+.w3-bar b {
+    color: darkcyan;
+}
+
+.w3-bar b2 {
+    color: black;
+}
+
+.w4 {
+    color: black;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.w4-content {
+    background-color: aliceblue;
+}
+
+.w7 {
+    color: darkcyan;
+}
+
+footer{
+    background-color:darkcyan;
+    color:white;
+}
+
+p1{
+    background-color:palevioletred;
+}
